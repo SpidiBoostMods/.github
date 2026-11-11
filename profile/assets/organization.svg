@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Моды для Minecraft.">
+<rect width="1200" height="280" rx="18" fill="#111b20"/>
+<path d="M852 0h1v280h-1z" fill="#2c3a40"/>
+<path d="M853 0h347v280H853z" fill="#18262b"/>
+<path d="M916 0L853 63M1000 0L853 147M1084 0L853 231M1168 0L888 280M1200 52L972 280M1200 136l-144 144M1200 220l-60 60" stroke="#213237" fill="none"/>
+<rect x="44" y="43" width="6" height="15" rx="2" fill="#b5d2bf"/>
+<text x="64" y="56" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3" fill="#a9bbb9">SPIDIBOOST</text>
+<text x="44" y="149" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="62" font-weight="650" letter-spacing="-2" fill="#edf1e9">Моды для Minecraft.</text>
+<text x="47" y="201" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="23" fill="#a9bbb9">Fabric · Java Edition · 1.21.4</text>
+<g transform="translate(965 48) scale(1.9)" color="#b5d2bf"><path d="M48 12H18L4 26v16l14 14h21l7 7v7l-7 7H8v16h38l16-16V57L48 43H27l-7-7v-4l7-7h21z" fill="currentColor"/></g>
+</svg>
